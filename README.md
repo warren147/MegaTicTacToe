@@ -1,6 +1,6 @@
 # Mega Tic Tac Toe
 
-Created Fall 2022<br>
+Created Fall 2021<br>
 This is a 5x5 Tic Tac Toe game with two players. 
 
 ## Table of contents
